@@ -1,0 +1,19 @@
+          ##################
+          ## BLOCKCONTROL ##
+          ##################
+       #Made by Meziyani/Falcon
+
+#Permission pour bypass, blockcontrol.bypass
+#Liste des blocs, http://minecraft-ids.grahamedgecombe.com/
+
+#Message a envoyer si le joueur ne peut pas poser le bloc
+message: '&cVous ne pouvez pas poser ce bloc ici!'
+
+#Quels blocs sont désactivés? (IDs)
+blocks:
+  - '17:2'
+
+#Dans quelles regions peuvent-il être posés?
+regions:
+  - 'allowed'
+  

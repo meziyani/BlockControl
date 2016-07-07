@@ -1,0 +1,6 @@
+name: BlockControl
+main: net.falcon.blockcontrol.BlockMain
+description: Bloc blocks within a region by id
+author: Falcon
+version: 3.0
+depend: [WorldGuard, WorldEdit]
